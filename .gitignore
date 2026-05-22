@@ -1,0 +1,20 @@
+# 环境与密钥
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# 数据库文件
+*.db
+*.sqlite
+
+# IDE 配置
+.vscode/
+.idea/
+
+# 临时文件
+*.log
+.DS_Store
